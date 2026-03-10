@@ -1,2 +1,1 @@
-# gladiator-bot
-мой ии бот в телеграмме 
+bot.py
